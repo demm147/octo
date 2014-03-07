@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://demm147.github.io//github/sitemap.xml 
